@@ -1,1 +1,2 @@
-# new_repository
+this is my new repository
+Auther Deepak Sharma
